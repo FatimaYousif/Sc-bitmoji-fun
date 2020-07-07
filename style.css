@@ -48,5 +48,5 @@ p a
 @media screen and (max-width:800px) {
     .row1,.row2 {
         flex-direction: column;
-        margin: 0% 30%;
+        margin: 0% 25%;
     }
